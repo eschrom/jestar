@@ -1,0 +1,3 @@
+# Introduction
+
+Just-Enough-Supervision-To-Annotate-Right (jestar) is a Python package for annotating cell types based on molecular expression information contained in imaging data. This is essentially a machine learning (ML)-based clustering task, tailored to the setting of multiplex imaging. Jestar aims to combine the advantages of unsupervised ML (discovery of unexpected cell types) with the necessity of supervision (utilization of prior knowledge).
